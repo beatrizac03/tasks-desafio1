@@ -1,5 +1,7 @@
 ## To Do List - Desafio
 
+Link de acesso: https://beatrizac03.github.io/tasks-desafio1/
+
 Atividade proposta pelo Prof. Rodolfo, módulo de Programação Client-Side no SENAI.
 
 Objetivo e Funções:
