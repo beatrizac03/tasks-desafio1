@@ -49,7 +49,6 @@ function adcTask() {
 
     divContTasks.appendChild(task)
     inputNewTask.value = ''
-    
 }
 
 
